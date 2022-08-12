@@ -1,13 +1,3 @@
-<h1 align="center">
-  DevBarber
-</h1>
-<h3 align="center">
-  <a href="./README.md">English</a> |
-  <a href="./README_PT.md">Portuguese</a>
-</h3>
-
-## 💻 Project
-
 <h4>
  App desenvolvido em React Native para localizar seu Barbeiro Favorito.
 </h4>
