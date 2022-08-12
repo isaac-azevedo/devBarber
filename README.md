@@ -51,25 +51,8 @@ Technologies used to develop this app
 - [Metro](https://facebook.github.io/metro/)
 - [Eslint](https://eslint.org/)
 
-## 🚀 Getting started
 
-First you need to have node and yarn installed on your machine.
-Run the following command to clone the project:
-
-1. `git clone https://github.com/carlosdiver/devBarber.git`
-
-Then, inside the project root, run the following command to install dependencies:
-
-2. `npm install`
-
-After, with the Android or IOS emulator on, execute the following command to run the project:
-
-3. `npx react-native run-android`
 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Made with 💙 by Carlos Eduardo Silva <a target="_blank" href="https://www.linkedin.com/in/carlos-silva-devs/">See my Linkedin</a>
